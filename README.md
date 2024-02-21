@@ -3,18 +3,20 @@
 <h2>📌 Summary</h2>
 <h3><i>FASE 1 - Entendendo e Aprendendo o Front-End com Projetos</i></h3>
 <p>Repository for my college (FIAP) study content, more specifically the <strong><i>FASE 1</i></strong>, which will contemplate these initials steps into the software engineer, front-end development and agile methodologies.</p>
-<p>This stage is divided in <strong>11 chapters</strong> of teaching, you can view more in <a href="#%EF%B8%8F-table-of-contents">table of contents</a></p>
+<p>This stage is divided in <strong>11 chapters</strong> of teaching, you can view more in <a href="#contents">table of contents</a></p>
 <p>(02/19 - 03/20)</p>
 
 
 <hr>
 
 
-<h2 id="content" name="content" #content>🗃️ Table of Contents</h2>
-<div align=center>
-  <a href="#capitulo1">Capítulo 1</a> | <a href="#capitulo2">Capítulo 2</a> | <a href="#capitulo3">Capítulo 3</a> | <a href="#capitulo4">Capítulo 4</a> | <a href="#capitulo5">Capítulo 5</a> | <a href="#capitulo6">Capítulo 6</a>
-  <br>
-  <a href="#capitulo7">Capítulo 7</a> | <a href="#capitulo8">Capítulo 8</a> | <a href="#capitulo9">Capítulo 9</a> | <a href="#capitulo10">Capítulo 10</a> | <a href="#capitulo11">Capítulo 11</a>
+<div  id="content" name="content" #content>
+  <h2>🗃️ Table of Contents</h2>
+  <div align=center>
+    <a href="#capitulo1">Capítulo 1</a> | <a href="#capitulo2">Capítulo 2</a> | <a href="#capitulo3">Capítulo 3</a> | <a href="#capitulo4">Capítulo 4</a> | <a href="#capitulo5">Capítulo 5</a> | <a href="#capitulo6">Capítulo 6</a>
+    <br>
+    <a href="#capitulo7">Capítulo 7</a> | <a href="#capitulo8">Capítulo 8</a> | <a href="#capitulo9">Capítulo 9</a> | <a href="#capitulo10">Capítulo 10</a> | <a href="#capitulo11">Capítulo 11</a>
+  </div>
 </div>
 
 
