@@ -1,2 +1,3 @@
-# FIAP
-Repository for FIAP's content
+# FIAP-Fase1
+
+FASE 1 - ENTENDENDO E APRENDENDO O FRONT-END COM PROJETOS
