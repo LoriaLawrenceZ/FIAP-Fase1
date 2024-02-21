@@ -10,7 +10,7 @@
 <hr>
 
 
-<div  id="content" name="content" #content>
+<div  id="contents" name="contents" #contents>
   <h2>🗃️ Table of Contents</h2>
   <div align=center>
     <a href="#capitulo1">Capítulo 1</a> | <a href="#capitulo2">Capítulo 2</a> | <a href="#capitulo3">Capítulo 3</a> | <a href="#capitulo4">Capítulo 4</a> | <a href="#capitulo5">Capítulo 5</a> | <a href="#capitulo6">Capítulo 6</a>
