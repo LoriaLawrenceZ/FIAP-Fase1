@@ -21,8 +21,8 @@
 <hr>
 
 
-<details close>
-  <summary><h2 id="capitulo1" name="capitulo1" #capitulo1>🚩 Capítulo 1 - Criando a Agrotech com a The future is now</h2></summary>
+<details close id="capitulo1" name="capitulo1" #capitulo1>
+  <summary><h2>🚩 Capítulo 1 - Criando a Agrotech com a The future is now</h2></summary>
 </details>
 
 
@@ -30,8 +30,8 @@
 <hr>
 
 
-<details close>
-  <summary><h2 id="capitulo2" name="capitulo2" #capitulo2>🚩 Capítulo 2 - Primeiros Passos Técnicos da Imersão em Engenharia de Software</h2></summary>
+<details close id="capitulo2" name="capitulo2" #capitulo2>
+  <summary><h2>🚩 Capítulo 2 - Primeiros Passos Técnicos da Imersão em Engenharia de Software</h2></summary>
 </details>
 
 
@@ -39,71 +39,70 @@
 <hr>
 
 
-<details close>
-  <summary><h2 id="capitulo3" name="capitulo3" #capitulo3>🚩 Capítulo 3</h2></summary>
+<details close id="capitulo3" name="capitulo3" #capitulo3>
+  <summary><h2>🚩 Capítulo 3</h2></summary>
 </details>
 
 
 <hr>
 
 
-<details close>
-  <summary><h2 id="capitulo4" name="capitulo4" #capitulo4>🚩 Capítulo 4</h2></summary>
+<details close id="capitulo4" name="capitulo4" #capitulo4>
+  <summary><h2>🚩 Capítulo 4</h2></summary>
 </details>
 
 
 <hr>
 
 
-<details close>
-  <summary><h2 id="capitulo5" name="capitulo5" #capitulo5>🚩 Capítulo 5</h2></summary>
+<details close id="capitulo5" name="capitulo5" #capitulo5>
+  <summary><h2>🚩 Capítulo 5</h2></summary>
 </details>
 
 
 <hr>
 
 
-<details close>
-  <summary><h2 id="capitulo6" name="capitulo6" #capitulo6>🚩 Capítulo 6</h2></summary>
+<details close id="capitulo6" name="capitulo6" #capitulo6>
+  <summary><h2>🚩 Capítulo 6</h2></summary>
 </details>
 
 
 <hr>
 
 
-<details close>
-  <summary><h2 id="capitulo7" name="capitulo7" #capitulo7>🚩 Capítulo 7</h2></summary>
+<details close id="capitulo7" name="capitulo7" #capitulo7>
+  <summary><h2>🚩 Capítulo 7</h2></summary>
 </details>
 
 
 <hr>
 
 
-<details close>
-  <summary><h2 id="capitulo8" name="capitulo8" #capitulo1>🚩 Capítulo 8</h2></summary>
+<details close id="capitulo8" name="capitulo8" #capitulo8>
+  <summary><h2>🚩 Capítulo 8</h2></summary>
 </details>
 
 
 <hr>
 
 
-<details close>
-  <summary>
-<h2 id="capitulo9" name="capitulo9" #capitulo1>🚩 Capítulo 9</h2></summary>
+<details close id="capitulo9" name="capitulo9" #capitulo9>
+  <summary><h2>🚩 Capítulo 9</h2></summary>
 </details>
 
 
 <hr>
 
 
-<details close>
-  <summary><h2 id="capitulo10" name="capitulo10" #capitulo10>🚩 Capítulo 10</h2></summary>
+<details close id="capitulo10" name="capitulo10" #capitulo10>
+  <summary><h2>🚩 Capítulo 10</h2></summary>
 </details>
 
 
 <hr>
 
 
-<details close>
-  <summary><h2 id="capitulo11" name="capitulo11" #capitulo11>🚩 Capítulo 11</h2></summary>
+<details close id="capitulo11" name="capitulo11" #capitulo11>
+  <summary><h2>🚩 Capítulo 11</h2></summary>
 </details>
