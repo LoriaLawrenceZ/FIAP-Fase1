@@ -1,7 +1,7 @@
 <h1 align=center>🎓 FIAP 🎓</h1>
 
 <h2>📌 Summary</h2>
-<h3><i>FASE 1 - Entendendo e Aprendendo o Front-End com Projetos</i></h3>
+<h3>FASE 1 - <i>Entendendo e Aprendendo o Front-End com Projetos</i></h3>
 <p>Repository for my college (FIAP) study content, more specifically the <strong><i>FASE 1</i></strong>, which will contemplate these initials steps into the software engineer, front-end development and agile methodologies.</p>
 <p>This stage is divided in <strong>11 chapters</strong> of teaching, you can view more in <a href="#contents">table of contents</a></p>
 <p>(02/19 - 03/20)</p>
@@ -24,7 +24,7 @@
 
 
 <details close id="capitulo1" name="capitulo1" #capitulo1>
-  <summary><h2>🚩 Capítulo 1 - Criando a Agrotech com a The future is now</h2></summary>
+  <summary><h2>🚩 Capítulo 1 - <i>Criando a Agrotech com a The future is Now</i></h2></summary>
 </details>
 
 
@@ -33,7 +33,7 @@
 
 
 <details close id="capitulo2" name="capitulo2" #capitulo2>
-  <summary><h2>🚩 Capítulo 2 - Primeiros Passos Técnicos da Imersão em Engenharia de Software</h2></summary>
+  <summary><h2>🚩 Capítulo 2 - <i>Primeiros Passos Técnicos da Imersão em Engenharia de Software</i></h2></summary>
 </details>
 
 
