@@ -56,8 +56,6 @@ Atualmente vivemos na sociedade 5.0 que apoia a população a viver mais e melho
     17. Parcerias e meios de implementação
 </details>
 
-<br>
-
 O Brasil tem papel importante no Tópico 1 (erradicação da fome). Hoje já desponta entre os principais importadores agrícolas, além de atender a sua população de 213.3 milhões de pessoas e um espaço territorial de 8.516.000km².
 
 Pesquisa do IBGE aponta que havia 15 milhões de pessoas com atividades agropecuárias, 251 milhões de hectares com estabelecimentos agropecuários no Brasil e na agricultura a soja é a lavoura que tem o maior valor de produção no País, seguida pela cana-de-açúcar, milho e o café
@@ -78,8 +76,6 @@ Pesquisa do IBGE aponta que havia 15 milhões de pessoas com atividades agropecu
       351 milhões de hectares é a área de estabelecimentos agropecuários no Brasil
 
 </details>
-
-<br>
 
 ### ➡️ O Que é Agrotech?
 
