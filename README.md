@@ -39,6 +39,11 @@
 
 <details close id="capitulo2" name="capitulo2" #capitulo2>
   <summary><h2>🚩 Capítulo 2 - <i>Primeiros Passos Técnicos da Imersão em Engenharia de Software</i></h2></summary>
+  <ul>
+    <li>
+      <span>Anotações do Capítulo 2 (<a href="./Capitulo2/Capitulo2.md">Capitulo2.md</a>)</span>
+    </li>
+  </ul>
 </details>
 
 
