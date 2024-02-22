@@ -42,7 +42,26 @@
 
 
 <details close id="capitulo3" name="capitulo3" #capitulo3>
-  <summary><h2>🚩 Capítulo 3</h2></summary>
+  <summary><h2>🚩 Capítulo 3 - <i>Entendendo Todas as Linguagens para a Entrega do Front-End</i></h2></summary>
+  <ul>
+    <li>
+      <span>Anotações do Capítulo 3 (<a href="./Capitulo3/Capitulo3.md">Capitulo3.md</a>)</span>
+    </li>
+    <li>
+      <span>Projetos</span>
+      <ul>
+        <span>- <a href="./Capitulo3/Traveller/index.html">Traveller</a></span>
+        <ul>
+          <li>
+            <span>Primeiro projeto para ficar famirializado com o desenvolvimento front-end.</span>
+          </li>
+          <li>
+            <span>HTML | CSS</span>
+          </li>
+        </ul>
+      </ul>
+    </li>
+  </ul>
 </details>
 
 
