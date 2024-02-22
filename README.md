@@ -66,7 +66,7 @@
     <li>
       <span>Projetos</span>
       <ul>
-        <span>- <a href="./Capitulo3/Traveller/index.html">Traveller</a></span>
+        <span>- Traveller (<a href="./Capitulo3/Traveller/index.html">index.html</a>)</span>
         <ul>
           <li>
             <span>Primeiro projeto para ficar famirializado com o desenvolvimento front-end.</span>
