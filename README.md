@@ -56,7 +56,7 @@
 <hr>
 
 
-<div close id="capitulo3" name="capitulo3">
+<div name="capitulo3">
   <h2>✅ Capítulo 3</h2>
   <span>Capítulo 3 - <i>Entendendo Todas as Linguagens para a Entrega do Front-End</i></span>
   <ul>
@@ -85,9 +85,9 @@
 <hr>
 
 
-<details close id="capitulo4" name="capitulo4" #capitulo4>
+<div ame="capitulo4">
   <summary><h2>⭕ Capítulo 4</h2></summary>
-</details>
+</div>
 
 
 <hr>
