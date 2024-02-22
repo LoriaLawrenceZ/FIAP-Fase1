@@ -1,18 +1,18 @@
-<div #top>
+<div name="readme-op">
   <h1 align=center>🎓 FIAP 🎓</h1>
 </div>
 
 <h2>📌 Summary</h2>
 <h3>FASE 1 - <i>Entendendo e Aprendendo o Front-End com Projetos</i></h3>
 <p>Repository for my college (FIAP) study content, more specifically the <strong><i>FASE 1</i></strong>, which will contemplate these initials steps into the software engineer, front-end development and agile methodologies.</p>
-<p>This stage is divided in <strong>11 chapters</strong> of teaching, you can view more in <a href="#contents">table of contents</a></p>
+<p>This stage is divided in <strong>11 chapters</strong> of teaching, you can view more in <a href="#table-of-contents">table of contents</a></p>
 <p>(02/19 - 03/20)</p>
 
 
 <hr>
 
 
-<div  id="contents" name="contents" #contents>
+<div name="table-of-contents">
   <h2>🗃️ Table of Contents</h2>
   <div align=center>
     <a href="#capitulo1">Capítulo 1</a> | <a href="#capitulo2">Capítulo 2</a> | <a href="#capitulo3">Capítulo 3</a> | <a href="#capitulo4">Capítulo 4</a> | <a href="#capitulo5">Capítulo 5</a> | <a href="#capitulo6">Capítulo 6</a>
@@ -25,7 +25,7 @@
 <hr>
 
 
-<div id="capitulo1" name="capitulo1" #capitulo1>
+<div name="capitulo1">
   <h2 align="left">✅ Capítulo 1</h2>
   <span left=0>Capítulo 1 - <i>Criando a Agrotech com a The future is Now</i>
   <ul>
