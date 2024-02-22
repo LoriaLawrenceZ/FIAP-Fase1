@@ -1,4 +1,4 @@
-<div name="readme-op">
+<div name="readme-top">
   <h1 align=center>🎓 FIAP 🎓</h1>
 </div>
 
@@ -33,7 +33,7 @@
       <span>Anotações do Capítulo 1 (<a href="./Capitulo1/Capitulo1.md">Capitulo1.md</a>)</span>
     </li>
   </ul>
-  <p align="right">(<a href="#top">back to top</a>)</p>
+  <p align="right">(<a href="#readme-top">back to top</a>)</p>
 </div>
 
 
@@ -49,14 +49,16 @@
       <span>Anotações do Capítulo 2 (<a href="./Capitulo2/Capitulo2.md">Capitulo2.md</a>)</span>
     </li>
   </ul>
+  <p align="right">(<a href="#readme-top">back to top</a>)</p>
 </div>
 
 
 <hr>
 
 
-<details close id="capitulo3" name="capitulo3" #capitulo3>
-  <summary><h2>✅ Capítulo 3 - <i>Entendendo Todas as Linguagens para a Entrega do Front-End</i></h2></summary>
+<div close id="capitulo3" name="capitulo3">
+  <h2>✅ Capítulo 3</h2>
+  <span>Capítulo 3 - <i>Entendendo Todas as Linguagens para a Entrega do Front-End</i></span>
   <ul>
     <li>
       <span>Anotações do Capítulo 3 (<a href="./Capitulo3/Capitulo3.md">Capitulo3.md</a>)</span>
@@ -76,7 +78,8 @@
       </ul>
     </li>
   </ul>
-</details>
+  <p align="right">(<a href="#readme-top">back to top</a>)</p>
+</div>
 
 
 <hr>
