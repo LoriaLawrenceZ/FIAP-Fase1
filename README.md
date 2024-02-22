@@ -56,7 +56,7 @@
 
 
 <details close id="capitulo3" name="capitulo3" #capitulo3>
-  <summary><h2>🚩 Capítulo 3 - <i>Entendendo Todas as Linguagens para a Entrega do Front-End</i></h2></summary>
+  <summary><h2>✅ Capítulo 3 - <i>Entendendo Todas as Linguagens para a Entrega do Front-End</i></h2></summary>
   <ul>
     <li>
       <span>Anotações do Capítulo 3 (<a href="./Capitulo3/Capitulo3.md">Capitulo3.md</a>)</span>
@@ -83,7 +83,7 @@
 
 
 <details close id="capitulo4" name="capitulo4" #capitulo4>
-  <summary><h2>🚩 Capítulo 4</h2></summary>
+  <summary><h2>⭕ Capítulo 4</h2></summary>
 </details>
 
 
@@ -91,7 +91,7 @@
 
 
 <details close id="capitulo5" name="capitulo5" #capitulo5>
-  <summary><h2>🚩 Capítulo 5</h2></summary>
+  <summary><h2>⭕ Capítulo 5</h2></summary>
 </details>
 
 
@@ -99,7 +99,7 @@
 
 
 <details close id="capitulo6" name="capitulo6" #capitulo6>
-  <summary><h2>🚩 Capítulo 6</h2></summary>
+  <summary><h2>⭕ Capítulo 6</h2></summary>
 </details>
 
 
@@ -107,7 +107,7 @@
 
 
 <details close id="capitulo7" name="capitulo7" #capitulo7>
-  <summary><h2>🚩 Capítulo 7</h2></summary>
+  <summary><h2⭕🚩 Capítulo 7</h2></summary>
 </details>
 
 
