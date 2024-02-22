@@ -27,7 +27,7 @@
 
 <div name="capitulo1">
   <h2 align="left">✅ Capítulo 1</h2>
-  <span left=0>Capítulo 1 - <i>Criando a Agrotech com a The future is Now</i>
+  <span left=0>Capítulo 1 - <i>Criando a Agrotech com a The future is Now</i></span>
   <ul>
     <li>
       <span>Anotações do Capítulo 1 (<a href="./Capitulo1/Capitulo1.md">Capitulo1.md</a>)</span>
@@ -41,15 +41,15 @@
 <hr>
 
 
-<details close id="capitulo2" name="capitulo2" #capitulo2>
-  <summary><h2>🚩 Capítulo 2 - <i>Primeiros Passos Técnicos da Imersão em Engenharia de Software</i></h2></summary>
+<div name="capitulo2">
+  <h2>⭕ Capítulo 2</h2>
+  <span>Capítulo 2 - <i>Primeiros Passos Técnicos da Imersão em Engenharia de Software</i></span>
   <ul>
     <li>
       <span>Anotações do Capítulo 2 (<a href="./Capitulo2/Capitulo2.md">Capitulo2.md</a>)</span>
     </li>
   </ul>
-</details>
-
+</div>
 
 
 <hr>
