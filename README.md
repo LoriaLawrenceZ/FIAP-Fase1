@@ -21,7 +21,7 @@ This stage is divided in **11 chapters** of teaching ([table of contents](#table
 - Atividades
   - [Atividade Capítulo 5]() | [Atividade Capítulo 7]()
 
-<div name="capitulo1"></div>
+<hr name="capitulo1">
 
 ---
 
@@ -33,7 +33,7 @@ Capítulo 1 - *Criando a Agrotech com a The future is Now*
 
 <p align="right">(<a href="#readme-top">back to top</a>)
 
-<div name="capitulo2"></div>
+<hr name="capitulo2">
 
 ## ⭕ Capítulo 2
 
@@ -43,7 +43,7 @@ Capítulo 2 - *Primeiros Passos Técnicos da Imersão em Engenharia de Software*
 
 <p align="right">(<a href="#readme-top">back to top</a>)
 
-<div name="capitulo3"></div>
+<hr name="capitulo3">
 
 ## ✅ Capítulo 3
 
@@ -57,34 +57,34 @@ Capítulo 3 - *Entendendo Todas as Linguagens para a Entrega do Front-End*
 
 <p align="right">(<a href="#readme-top">back to top</a>)
 
-<div name="capitulo4"></div>
+<hr name="capitulo4">
 
 ## ⭕ Capítulo 4
 
-<div name="capitulo5"></div>
+<hr name="capitulo5">
 
 ## ⭕ Capítulo 5
 
-<div name="capitulo6"></div>
+<hr name="capitulo6">
 
 ## ⭕ Capítulo 6
 
-<div name="capitulo7"></div>
+<hr name="capitulo7">
 
 ## ⭕ Capítulo 7
 
-<div name="capitulo8"></div>
+<hr name="capitulo8">
 
 ## ⭕ Capítulo 8
 
-<div name="capitulo9"></div>
+<hr name="capitulo9">
 
 ## ⭕ Capítulo 9
 
-<div name="capitulo10"></div>
+<hr name="capitulo10">
 
 ## ⭕ Capítulo 10
 
-<div name="capitulo11"></div>
+<hr name="capitulo11">
 
 ## ⭕ Capítulo 11
