@@ -4,6 +4,8 @@
 
 Markdown utilizado para tirar notas de aulas e de conteúdos.
 
+---
+
 ## 📌 Introdução
 
 Devido à crescente demanda por **desenvolvimento de *software***, as **indústrias de *softwares*** precisam engajar nessa onda de competitividade, melhorando de maneira eficar sua produtividade a fim de enfrentar essa realidade em constante evolução.
@@ -28,6 +30,8 @@ Pode-se então entender a **engenharia de software** como o **corpo de conhecime
 
 - Atua em praticamente todas as etapas da construção do software, garantindo **prazos, custo e qualidade**!
 - Tem conhecimento das melhores **métodos**, **ferramentas**e **procedimentos**
+
+---
 
 <h2 align=center>IMERSÃO EM ENGENHARIA DE SOFTWARE</h2>
 
