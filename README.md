@@ -9,10 +9,10 @@
 <p>(02/19 - 03/20)</p>
 
 
-<hr>
+<hr name="table-of-contents">
 
 
-<div name="table-of-contents">
+<div>
   <h2>🗃️ Table of Contents</h2>
   <div align=center>
     <a href="#capitulo1">Capítulo 1</a> | <a href="#capitulo2">Capítulo 2</a> | <a href="#capitulo3">Capítulo 3</a> | <a href="#capitulo4">Capítulo 4</a> | <a href="#capitulo5">Capítulo 5</a> | <a href="#capitulo6">Capítulo 6</a>
@@ -53,10 +53,10 @@
 </div>
 
 
-<hr>
+<hr name="capitulo3">
 
 
-<div name="capitulo3">
+<div>
   <h2>✅ Capítulo 3</h2>
   <span>Capítulo 3 - <i>Entendendo Todas as Linguagens para a Entrega do Front-End</i></span>
   <ul>
@@ -82,65 +82,65 @@
 </div>
 
 
-<hr>
+<hr name="capitulo4">
 
 
-<div ame="capitulo4">
-  <summary><h2>⭕ Capítulo 4</h2></summary>
+<div>
+  <span><h2>⭕ Capítulo 4</h2></span>
 </div>
 
 
-<hr>
+<hr name="capitulo5">
 
 
-<details close id="capitulo5" name="capitulo5" #capitulo5>
-  <summary><h2>⭕ Capítulo 5</h2></summary>
-</details>
+<div>
+  <span><h2>⭕ Capítulo 5</h2></span>
+</div>
 
 
-<hr>
+<hr name="capitulo6">
 
 
-<details close id="capitulo6" name="capitulo6" #capitulo6>
-  <summary><h2>⭕ Capítulo 6</h2></summary>
-</details>
+<div>
+  <span><h2>⭕ Capítulo 6</h2></span>
+</div>
 
 
-<hr>
+<hr name="capitulo7">
 
 
-<details close id="capitulo7" name="capitulo7" #capitulo7>
-  <summary><h2⭕🚩 Capítulo 7</h2></summary>
-</details>
+<div>
+  <span><h2>⭕ Capítulo 7</h2></span>
+</div>
 
 
-<hr>
+<hr name="capitulo8">
 
 
-<details close id="capitulo8" name="capitulo8" #capitulo8>
-  <summary><h2>🚩 Capítulo 8</h2></summary>
-</details>
+<div>
+  <span><h2>⭕ Capítulo 8</h2></span>
+</div>
 
 
-<hr>
+<hr name="capitulo9">
 
 
-<details close id="capitulo9" name="capitulo9" #capitulo9>
-  <summary><h2>🚩 Capítulo 9</h2></summary>
-</details>
+<div>
+  <span><h2>⭕ Capítulo 9</h2></span>
+</div>
 
 
-<hr>
+<hr name="capitulo10">
 
 
-<details close id="capitulo10" name="capitulo10" #capitulo10>
-  <summary><h2>🚩 Capítulo 10</h2></summary>
-</details>
+<div>
+  <span><h2>⭕ Capítulo 10</h2></span>
+</div>
 
 
-<hr>
+<hr name="capitulo11">
 
 
-<details close id="capitulo11" name="capitulo11" #capitulo11>
-  <summary><h2>🚩 Capítulo 11</h2></summary>
-</details>
+<div>
+  <span><h2>⭕ Capítulo 11</h2></span>
+</div>
