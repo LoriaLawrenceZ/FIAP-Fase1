@@ -30,7 +30,7 @@
   <span left=0>Capítulo 1 - <i>Criando a Agrotech com a The future is Now</i></span>
   <ul>
     <li>
-      <span>Anotações do Capítulo 1 (<a href="./Capitulo1/Capitulo1.md">Capitulo1.md</a>)</span>
+      <span>Anotações do Capítulo 1 (<a href="./Capitulos/Capitulo1/Capitulo1.md">Capitulo1.md</a>)</span>
     </li>
   </ul>
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -46,7 +46,7 @@
   <span>Capítulo 2 - <i>Primeiros Passos Técnicos da Imersão em Engenharia de Software</i></span>
   <ul>
     <li>
-      <span>Anotações do Capítulo 2 (<a href="./Capitulo2/Capitulo2.md">Capitulo2.md</a>)</span>
+      <span>Anotações do Capítulo 2 (<a href="./Capitulos/Capitulo2/Capitulo2.md">Capitulo2.md</a>)</span>
     </li>
   </ul>
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -61,12 +61,12 @@
   <span>Capítulo 3 - <i>Entendendo Todas as Linguagens para a Entrega do Front-End</i></span>
   <ul>
     <li>
-      <span>Anotações do Capítulo 3 (<a href="./Capitulo3/Capitulo3.md">Capitulo3.md</a>)</span>
+      <span>Anotações do Capítulo 3 (<a href="./Capitulos/Capitulo3/Capitulo3.md">Capitulo3.md</a>)</span>
     </li>
     <li>
       <span>Projetos</span>
       <ul>
-        <span>- Traveller (<a href="./Capitulo3/Traveller/index.html">index.html</a>)</span>
+        <span>- Traveller (<a href="./Capitulos/Capitulo3/Traveller/index.html">index.html</a>)</span>
         <ul>
           <li>
             <span>Primeiro projeto para ficar famirializado com o desenvolvimento front-end.</span>

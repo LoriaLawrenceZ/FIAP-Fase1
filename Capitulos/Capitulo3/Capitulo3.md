@@ -1,8 +1,8 @@
-<p align="left">(<a href="../README.md">readme</a>)</p>
+<p align="left">(<a href="../../README.md">readme</a>)</p>
 <h1 align=center>CAPÍTULO 3</h1>
 <h2 align=center>Entendendo Todas as Linguagens para a Entrega do Front-End</h2>
 
-Markdown utilizado para tirar notas de aulas e de conteúdos.
+Markdown utilizado para tirar notas dos conteúdos.
 
 ---
 
