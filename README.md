@@ -23,8 +23,6 @@ This stage is divided in **11 chapters** of teaching ([table of contents](#table
 
 <hr name="capitulo1">
 
----
-
 ## ✅ Capítulo 1
 
 Capítulo 1 - *Criando a Agrotech com a The future is Now*
