@@ -7,7 +7,9 @@
 ### FASE 1 - *Entendendo e Aprendendo o Front-End com Projetos*
 
 Repository for my college (FIAP) study content, more specifically the ***FASE 1***, which will contemplate these initials steps into the software engineer, front-end development and agile methodologies.
+
 This stage is divided in **11 chapters** of teaching ([table of contents](#table-of-contents))
+
 (02/19 - 03/20)
 
 <hr name="table-of-contents">
