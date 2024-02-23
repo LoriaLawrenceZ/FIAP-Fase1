@@ -22,10 +22,10 @@
 </div>
 
 
-<hr>
+<hr name="capitulo1">
 
 
-<div name="capitulo1">
+<div>
   <h2 align="left">✅ Capítulo 1</h2>
   <span left=0>Capítulo 1 - <i>Criando a Agrotech com a The future is Now</i></span>
   <ul>
@@ -38,10 +38,10 @@
 
 
 
-<hr>
+<hr name="capitulo2">
 
 
-<div name="capitulo2">
+<div>
   <h2>⭕ Capítulo 2</h2>
   <span>Capítulo 2 - <i>Primeiros Passos Técnicos da Imersão em Engenharia de Software</i></span>
   <ul>
